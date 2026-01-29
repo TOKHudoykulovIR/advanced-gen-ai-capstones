@@ -36,3 +36,11 @@ http://localhost:8501
 ---
 
 <img width="1237" height="124" alt="image_2026-01-29_21-28-15" src="https://github.com/user-attachments/assets/02cd9413-a3ee-429c-b8c4-bf97b587b690" />
+
+---
+---
+---
+
+## Running on Hugging Face
+<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/5354c1db-b723-4bbe-bebe-c777ca470ac8" />
+
