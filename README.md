@@ -41,6 +41,6 @@ http://localhost:8501
 ---
 ---
 
-## Running on Hugging Face
+## Running on Hugging Face (https://huggingface.co/spaces/tokhir-kh/C2)
 <img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/5354c1db-b723-4bbe-bebe-c777ca470ac8" />
 
